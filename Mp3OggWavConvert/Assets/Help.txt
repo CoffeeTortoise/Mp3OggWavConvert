@@ -1,0 +1,3 @@
+Make sure that the mp3 files are in the MP3 folder,
+the wav files are in the WAV folder, the ogg files
+are in OGG folder
